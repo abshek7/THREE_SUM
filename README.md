@@ -16,7 +16,7 @@ Here're some of the project's best features:
 
 *   Audio Input
 *   Three.js Integration
-*   Dynamic Elements:
+*   Dynamic Elements
 *   Responsive Design
 
   
